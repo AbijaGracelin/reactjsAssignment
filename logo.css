@@ -1,0 +1,23 @@
+.backGround {
+    background-color: black;
+}
+
+.rhombus {
+    border-right: 20px solid rgb(141, 140, 140);
+    border-top: 20px solid rgb(212, 67, 10);
+    border-left: 20px solid rgb(90, 160, 90);
+    border-bottom: 20px solid rgb(11, 80, 136);
+    margin-top: 250px;
+    margin-left: 500px;
+    width: 200px;
+    height: 200px;
+    transform: rotate(45deg);
+}
+
+.text {
+    color: white;
+    text-align: center;
+    margin-left: 8%;
+    transform: rotate(-45deg);
+    margin-top: 38%;
+}
